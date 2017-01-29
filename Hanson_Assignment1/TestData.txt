@@ -1,0 +1,30 @@
+WeatherInformation [latitude=Latitude: [degree=34, minute=3 NorthOrSouth=N],
+longitude=Longitude: [degree=118, minute=15 eastOrWest=W],
+maxTemperature=111.92, minTemperature=23.0]
+WeatherInformation [latitude=Latitude: [degree=33, minute=27 NorthOrSouth=S],
+longitude=Longitude: [degree=70, minute=39 eastOrWest=W],
+maxTemperature=98.96, minTemperature=19.4]
+WeatherInformation [latitude=Latitude: [degree=27, minute=28 NorthOrSouth=S],
+longitude=Longitude: [degree=153, minute=2 eastOrWest=E],
+maxTemperature=109.76, minTemperature=36.14]
+WeatherInformation [latitude=Latitude: [degree=77, minute=51 NorthOrSouth=S],
+longitude=Longitude: [degree=166, minute=41 eastOrWest=E],
+maxTemperature=48.2, minTemperature=-58.0]
+WeatherInformation [latitude=Latitude: [degree=25, minute=15 NorthOrSouth=N],
+longitude=Longitude: [degree=55, minute=18 eastOrWest=E],
+maxTemperature=120.2, minTemperature=45.32]
+WeatherInformation [latitude=Latitude: [degree=59, minute=56 NorthOrSouth=N],
+longitude=Longitude: [degree=30, minute=19 eastOrWest=E],
+maxTemperature=94.28, minTemperature=-32.62]
+WeatherInformation [latitude=Latitude: [degree=26, minute=12 NorthOrSouth=S],
+longitude=Longitude: [degree=28, minute=3 eastOrWest=E],
+maxTemperature=95.72, minTemperature=17.24]
+WeatherInformation [latitude=Latitude: [degree=45, minute=31 NorthOrSouth=N],
+longitude=Longitude: [degree=73, minute=35 eastOrWest=W],
+maxTemperature=99.68, minTemperature=-43.6]
+WeatherInformation [latitude=Latitude: [degree=54, minute=48 NorthOrSouth=S],
+longitude=Longitude: [degree=68, minute=18 eastOrWest=W],
+maxTemperature=84.2, minTemperature=-5.8]
+WeatherInformation [latitude=Latitude: [degree=57, minute=47 NorthOrSouth=N],
+longitude=Longitude: [degree=152, minute=24 eastOrWest=W],
+maxTemperature=82.04, minTemperature=-19.66]
